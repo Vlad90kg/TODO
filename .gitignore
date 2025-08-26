@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/runConfigurations/
+!.idea/*.iml
+
+# Ignore volatile IntelliJ files
+.idea/workspace.xml
+.idea/vcs.xml
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node (in case frontend/node_modules ends up here)
+node_modules/
+dist/
+build/
+
+# Java / Spring Boot (in case backend/target ends up here)
+target/
+out/
