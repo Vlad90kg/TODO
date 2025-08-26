@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9bb4c52-e6f8-43fa-bdf6-03866aa10b6d" name="Changes" comment="Create TodoController class, SecurityConfig">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend" afterDir="false" />
-    </list>
+    <list default="true" id="c9bb4c52-e6f8-43fa-bdf6-03866aa10b6d" name="Changes" comment="Create frontend repository, add backend and frontend submodules to todo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +25,7 @@
         <entry key="$PROJECT_DIR$/backend" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -69,7 +66,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "Spring Boot.TodoApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/vladikslon/IdeaProjects/todo/frontend",
@@ -132,6 +129,8 @@
       <workItem from="1756194062533" duration="15000" />
       <workItem from="1756194080916" duration="411000" />
       <workItem from="1756194496474" duration="4106000" />
+      <workItem from="1756200811804" duration="184000" />
+      <workItem from="1756201000034" duration="4101000" />
     </task>
     <task id="LOCAL-00001" summary="Configure dependencies, create Person model">
       <option name="closed" value="true" />
@@ -165,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755890806456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create frontend repository, add backend and frontend submodules to todo">
+      <option name="closed" value="true" />
+      <created>1756200972104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756200972104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +183,7 @@
     <MESSAGE value="Create Todo model, PersonRepository, TodoRepository" />
     <MESSAGE value="Create PersonController class" />
     <MESSAGE value="Create TodoController class, SecurityConfig" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create TodoController class, SecurityConfig" />
+    <MESSAGE value="Create frontend repository, add backend and frontend submodules to todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create frontend repository, add backend and frontend submodules to todo" />
   </component>
 </project>
